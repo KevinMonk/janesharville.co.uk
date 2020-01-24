@@ -14,7 +14,7 @@ Telephone: [01323 659244](tel:+441323659244)
 
 E-mail: [karen@readbookkeeping.co.uk](mailto:karen@readbookkeeping.co.uk)
 
-50 Ringwood Road\
-Eastbourne,\
-East Sussex\
+50 Ringwood Road  
+Eastbourne,  
+East Sussex  
 BN22 8TB
