@@ -16,6 +16,6 @@ businesses so your accountants expertise will be employed only if it is truly ne
 * Self assessment tax returns
 * Companies house filing
 
-Bookkeeping services from £18 per hour.
+Bookkeeping services from £20 per hour.
 
-Tax returns from £120.
+Tax returns from £150.
