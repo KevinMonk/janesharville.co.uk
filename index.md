@@ -9,4 +9,4 @@ This site showcases the work of Jane Sharville, a milliner who trained at the Ja
 
 We are confident that our prices compare very favourably to those of other couture milliners for our individual creations. Whether they are for your special wedding day, mother of the bride, Ascot race days or other special occasions we are sure that you will be entirely satisfied with the quality and price of our creations.
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/BW33ibB" data-context="false" ><a href="//imgur.com/a/BW33ibB">Jane Sharville Test</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<div class='embedsocial-album' data-ref="7cf5a388ff5c8d504b83af3ce2f10bb7ce63ddcc"></div><script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/embedscript/ei.js"; d.getElementsByTagName("head")[0].appendChild(js);}(document, "script", "EmbedSocialScript"));</script>
